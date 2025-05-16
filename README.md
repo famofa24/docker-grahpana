@@ -1,38 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>grafana-docker-stack</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      background-color: #0d1117;
-      color: #c9d1d9;
-      padding: 2em;
-    }
-    h1 {
-      color: #fff;
-    }
-    code, pre {
-      background-color: #161b22;
-      color: #d1d5da;
-      padding: 0.5em;
-      border-radius: 5px;
-      font-family: monospace;
-      display: block;
-      white-space: pre-wrap;
-      margin-bottom: 1em;
-    }
-    a {
-      color: #58a6ff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
 
   <h1>grafana-docker-stack</h1>
 
