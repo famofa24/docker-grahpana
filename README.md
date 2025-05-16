@@ -1,5 +1,5 @@
 
-  <h1>grafana-docker-stack</h1>
+  <h1>docker-swarm-grahpana</h1>
 
   <p>For deploying Grafana, Prometheus and Node Exporter, make these steps:</p>
 
